@@ -1,0 +1,17 @@
+.h2-custom {
+    font-size: 23px;
+    font-weight: bold;
+    color: black;
+    margin-top: -52px;
+    margin-left: 80px;
+}
+
+.h1-jm {
+    color: white;
+    border-left: 10px solid yellow;
+    padding-left: 40px;
+    margin-left: 12px;
+    font-weight: 900;
+    font-size: 35px;
+    margin-bottom: 50px;
+}

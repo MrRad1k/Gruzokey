@@ -1,0 +1,29 @@
+@media all and (min-width: 100px) and (max-width: 690px) {
+    .tel {
+        margin-right: 500px;
+    }
+
+    .tx {
+        margin-right: 395px;
+    }
+}
+
+@media all and (min-width: 100px) and  (max-width:1012px) {
+    .tx {
+        margin-top: -77px;
+        margin-left: 100px;
+    }
+    
+}
+
+@media all and (min-width: 100px) and  (max-width: 1013px) {
+    .mail {
+        margin-right: 640px;
+    }   
+    .tx {
+        margin-right: 650px;
+    }
+    .tel {
+        margin-right: 630px;
+    }
+}

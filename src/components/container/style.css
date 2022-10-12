@@ -1,0 +1,20 @@
+.h1-custom {
+    color: black;
+    border-left: 10px solid yellow;
+    padding-left: 40px;
+    margin-left: 12px;
+    font-weight: 900;
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+
+.img-custom {
+    width: 400px;
+    height: 250px;
+}
+
+h4{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+}
